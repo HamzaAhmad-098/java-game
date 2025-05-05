@@ -1,0 +1,6 @@
+Art/f.png*f0
+Art/cog.png*cog
+Art/r1.png*r1
+Art/r2.png*r2
+Art/r3.png*r3
+Art/r4.png*r4

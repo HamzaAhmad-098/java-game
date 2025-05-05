@@ -1,0 +1,5 @@
+string1*Darkrai: 'Dark Pulse on Lugia'
+string2*Darkrai: 'Dark Void on Mewtwo'
+string3*Darkrai: 'Nasty Plot vs Rayquaza'
+string4*Darkrai: 'Dark Pulse on Arceus'
+string5*Darkrai: 'I rule with dark moves'
